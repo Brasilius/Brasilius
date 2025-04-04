@@ -7,3 +7,6 @@
 <h1 align = "center">
 Welcome in!
 </h1>
+<div align = "center">
+    <img src = "https://tenor.com/view/who-am-i-amnesia-forgot-gif-15444405">
+</div>
