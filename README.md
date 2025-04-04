@@ -8,5 +8,5 @@
 Welcome in!
 </h1>
 <div align = "center">
-    <img src = "https://tenor.com/view/who-am-i-amnesia-forgot-gif-15444405">
+    <img src = https://media.tenor.com/NxRQI82PaSMAAAAC/who-am-i-amnesia.gif" alt="Who am I GIF">
 </div>
