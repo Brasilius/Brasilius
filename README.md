@@ -8,5 +8,5 @@
 Welcome in!
 </h1>
 <div align = "center">
-    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBtdm5sN2VyN2pjNjIzODRkejZzNmp3ZWNmeHhoY3VnYzJseTEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px"/>
+    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBtdm5sN2VyN2pjNjIzODRkejZzNmp3ZWNmeHhoY3VnYzJseTEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px"/>
 </div>
