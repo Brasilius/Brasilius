@@ -2,14 +2,20 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="75" height="75" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" alt="Crab" width="75" height=" s75" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" alt="Crab" width="75" height="75" />
 </div>
 <h1 align = "center">
 Welcome in!
 </h1>
-<div align = "right">
-    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBtdm5sN2VyN2pjNjIzODRkejZzNmp3ZWNmeHhoY3VnYzJseTEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px"/>
-</div>
-<div align = "left">
-   My name is Leo!
-</div>
+---
+### ✈️⚙️ About me! 
+
+My name is Leo, I'm a Aerospace Engineer from Brazil!  
+
+- 🚁 I'm currently employed at Bell Flight as a Technical Engineering intern.
+
+- 💻 Currently programming on a Framework 13 - my favorite languages are Java <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="12" height="12" /> and Rust   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" alt="Crab" width="12" height="12" />
+
+- 🙌 In my free time I love to play some chill games and cook.
+
+- ⚓ You can reach out to me via www.nielslarsenweb.com
