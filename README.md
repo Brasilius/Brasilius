@@ -8,5 +8,5 @@
 Welcome in!
 </h1>
 <div align = "center">
-    <img src = "https://tenor.com/view/who-am-i-amnesia-forgot-gif-15444405">
+    <div class="tenor-gif-embed" data-postid="15444405" data-share-method="host" data-aspect-ratio="1.89349" data-width="100%"><a href="https://tenor.com/view/who-am-i-amnesia-forgot-gif-15444405">Who Am I Amnesia GIF</a>from <a href="https://tenor.com/search/who+am+i-gifs">Who Am I GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
