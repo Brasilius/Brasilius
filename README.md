@@ -7,7 +7,6 @@
 <h1 align = "center">
 Welcome in!
 </h1>
-___
 
 ### ✈️⚙️ About me! 
 
