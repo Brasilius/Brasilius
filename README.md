@@ -12,10 +12,12 @@ Welcome in!
 
 My name is Leo, I'm a Aerospace Engineer from Brazil!  
 
-- 🚁 I'm currently employed at Bell Flight as a Technical Engineering intern.
+- 🚁 I'm currently employed at Bell Flight as a Mechanical Engineering intern.
 
 - 💻 Currently programming on a Framework 13 - my favorite languages are Java <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="12" height="12" /> and Rust   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" alt="Crab" width="12" height="12" />
 
 - 🙌 In my free time I love to play some chill games and cook.
 
 - ⚓ You can reach out to me via www.nielslarsenweb.com
+
+- https://monkeytype.com/profile/Brasi
