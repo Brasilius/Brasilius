@@ -20,4 +20,4 @@ My name is Leo, I'm a Aerospace Engineer from Brazil!
 
 - ⚓ You can reach out to me via www.nielslarsenweb.com
 
-- https://monkeytype.com/profile/Brasi
+- ⌨️ Type like me via https://monkeytype.com/profile/Brasi
