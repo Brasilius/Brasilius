@@ -18,6 +18,6 @@ My name is Leo, I'm a Aerospace Engineer from Brazil!
 
 - 🙌 In my free time I love to play some chill games and cook.
 
-- ⚓ You can reach out to me via nielslarsen.dev
+- ⚓ You can reach out to me via https://nielslarsen.dev
 
 - ⌨️ Type like me via https://monkeytype.com/profile/Brasi
