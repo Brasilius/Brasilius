@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nielslarsen.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%81++Aerospace+Engineer+%7C+Software+Developer;%F0%9F%8D%B5++Fueled+by+coffee+and+jet+fuel" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%80++Aerospace+Engineer+%7C+Software+Developer;%E2%98%95++Fueled+by+coffee+and+jet+fuel" alt="Typing banner" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, linux, wireless telemetry systems - and of course **ROCKETS!**
+My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, Linux, wireless telemetry systems - and of course **ROCKETS!**
 
 - 🚁 &nbsp; Systems Engineering Intern at **Bell Flight**
 - 💻 &nbsp; Daily driver: **Framework 13** running Linux
