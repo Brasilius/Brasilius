@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nielslarsen.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%81++Aerospace+Engineer+%7C+Bell+Flight;%F0%9F%8D%B5++Fueled+by+matcha+and+jet+fuel" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%81++Aerospace+Engineer+%7C+Software+Developer;%F0%9F%8D%B5++Fueled+by+coffee+and+jet+fuel" alt="Typing banner" />
   </a>
 </p>
 
@@ -12,9 +12,9 @@
 
 ### 👋 About me
 
-My name is Leo, an Aerospace Engineer from Brazil currently designing things that fly at **Bell Flight**. When I'm not chasing tolerances or wrangling CAD, I'm on my Framework 13 writing Java ☕ or Rust 🦀, cooking, or losing chill games very un-chilly.
+My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, linux, wireless telemetry systems - and of course **ROCKETS!**
 
-- 🚁 &nbsp; Mechanical Engineering Intern at **Bell Flight**
+- 🚁 &nbsp; Systems Engineering Intern at **Bell Flight**
 - 💻 &nbsp; Daily driver: **Framework 13** running Linux
 - 🍵 &nbsp; Portfolio → [**nielslarsen.dev**](https://nielslarsen.dev)
 - ⌨️ &nbsp; Watch me type → [monkeytype.com/profile/Brasi](https://monkeytype.com/profile/Brasi)
