@@ -1,18 +1,18 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Brasilius&color=8ba888&style=flat-square&label=VISITORS)
 
-<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" width="60" height="60" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="60" height="60" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Helicopter.png" width="60" height="60" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" width="60" height="60" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" height="60" /></p>
-
-<h1 align="center">Welcome in!</h1>
-
 <p align="center">
-  <em>Aerospace Engineer 🇧🇷 · Mechanical Engineering Intern @ Bell Flight · Fueled by coffee!</em>
+  <a href="https://nielslarsen.dev">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%81++Aerospace+Engineer+%7C+Bell+Flight;%F0%9F%8D%B5++Fueled+by+matcha+and+jet+fuel" alt="Typing banner" />
+  </a>
 </p>
+
+<p align="center">✈️ &nbsp; ⚙️ &nbsp; 🚁 &nbsp; 🛰️ &nbsp; 🚀</p>
 
 ---
 
-### ✈️⚙️ About me
+### 👋 About me
 
-My name is Leo, an Aerospace Engineer from Brazil currently designing things that fly at **Bell Flight**. When I'm not chasing tolerances or wrangling CAD, I'm on my Framework 13 writing Java <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="14" height="14" /> or Rust <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" width="14" height="14" />, cooking, or losing chill games very un-chilly.
+My name is Leo, an Aerospace Engineer from Brazil currently designing things that fly at **Bell Flight**. When I'm not chasing tolerances or wrangling CAD, I'm on my Framework 13 writing Java ☕ or Rust 🦀, cooking, or losing chill games very un-chilly.
 
 - 🚁 &nbsp; Mechanical Engineering Intern at **Bell Flight**
 - 💻 &nbsp; Daily driver: **Framework 13** running Linux
