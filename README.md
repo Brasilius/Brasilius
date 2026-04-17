@@ -27,7 +27,7 @@ My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of th
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,latex,linux,git,github,docker,vscode,vim,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=matlab,linux,git,github,docker,vscode&theme=dark" />
   </a>
 </p>
 
