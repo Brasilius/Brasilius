@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<p align="center">✈️ &nbsp; ⚙️ &nbsp; 🚁 &nbsp; 🛰️ &nbsp; 🚀</p>
-
 ---
 
 ### 👋 About me
@@ -50,32 +48,6 @@ My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of th
   <a href="https://github.com/Brasilius">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brasilius&hide_border=true&background=0d1117&stroke=44624a&ring=c0cfb2&fire=8ba888&currStreakLabel=c0cfb2&sideLabels=8ba888&currStreakNum=c0cfb2&sideNums=c0cfb2&dates=8ba888" />
   </a>
-</p>
-
----
-
-### 🌿 Contribution Skyline — rendered in 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brasilius&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10" />
-  </a>
-</p>
-
----
-
-### 🐍 Watching the Commits Get Eaten
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Brasilius/Brasilius/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
