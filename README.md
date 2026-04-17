@@ -11,7 +11,7 @@
 <h1 align="center">Welcome in!</h1>
 
 <p align="center">
-  <em>Aerospace Engineer 🇧🇷 · Mechanical Engineering Intern @ Bell Flight · Fueled by matcha</em>
+  <em>Aerospace Engineer 🇧🇷 · Mechanical Engineering Intern @ Bell Flight · Fueled by coffee!a</em>
 </p>
 
 ---
