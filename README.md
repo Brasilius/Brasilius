@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nielslarsen.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%80++Aerospace+Engineer+%7C+Software+Developer;%E2%98%95++Fueled+by+coffee+and+jet+fuel" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%80++Aerospace+Engineer+%7C+Software+Developer;%E2%98%95++Fueled+by+coffee+and+liquid+oxygen" alt="Typing banner" />
   </a>
 </p>
 
