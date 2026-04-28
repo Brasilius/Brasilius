@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-My name is Leo, and I am a Swedish Brazilian aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, Linux, wireless telemetry systems - and of course **ROCKETS!**
+My name is Leo, and I am an aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, Linux, wireless telemetry systems - and of course **ROCKETS!**
 
 - 🚁 &nbsp; Systems Engineering Intern at **Bell Flight**
 - 💻 &nbsp; Daily driver: **Framework 13** running Fedora Linux
