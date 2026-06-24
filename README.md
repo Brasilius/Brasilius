@@ -12,7 +12,7 @@
 
 My name is Leo, and I am an aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, Linux, wireless telemetry systems - and of course **ROCKETS!**
 
-- 🚁 &nbsp; Systems Engineering Intern at **Bell Flight**
+- 🚀️ &nbsp; Effector Systems Integration and Test Engineer at **CHAOS Industries**
 - 💻 &nbsp; Daily driver: **Framework 13** running Fedora Linux
 - 🍵 &nbsp; Portfolio → [**nielslarsen.dev**](https://nielslarsen.dev)
 - ⌨️ &nbsp; Watch me type → [monkeytype.com/profile/Brasi](https://monkeytype.com/profile/Brasi)
