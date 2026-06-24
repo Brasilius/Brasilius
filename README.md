@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-My name is Leo, and I am an aerospace engineer, based out of the Dallas Fort Worth Metroplex. I am interested in a wide variety of things, such as open source technology, Linux, wireless telemetry systems - and of course **ROCKETS!**
+My name is Leo, and I am an aerospace engineer, based out of the Los Angeles Metroplex. I am interested in a wide variety of things, such as open source technologies, Linux, wireless telemetry systems - and of course **ROCKETS AND DRONES!**
 
 - 🚀️ &nbsp; Effector Systems Integration and Test Engineer at **CHAOS Industries**
 - 💻 &nbsp; Daily driver: **Framework 13** running Fedora Linux
