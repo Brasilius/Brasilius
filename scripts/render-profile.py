@@ -7,35 +7,15 @@ ROOT = Path(__file__).resolve().parents[1] / "assets"
 BG, PANEL, LINE, GREEN, CREAM, MUTED = (
     "#141d18", "#1d2b22", "#3a5140", "#aac986", "#e0e8ce", "#8fa58c"
 )
-FONT = {
-    "A": ["01110", "10001", "10001", "11111", "10001", "10001", "10001"],
-    "B": ["11110", "10001", "10001", "11110", "10001", "10001", "11110"],
-    "I": ["111", "010", "010", "010", "010", "010", "111"],
-    "L": ["10000", "10000", "10000", "10000", "10000", "10000", "11111"],
-    "R": ["11110", "10001", "10001", "11110", "10100", "10010", "10001"],
-    "S": ["01111", "10000", "10000", "01110", "00001", "00001", "11110"],
-    "U": ["10001", "10001", "10001", "10001", "10001", "10001", "01110"],
-}
+FONT_FAMILY = "'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif"
 
 
 def rect(x, y, w, h, fill, extra=""):
     return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{fill}" {extra}/>'
 
 
-def text(x, y, label, size=14, color=MUTED):
-    return f'<text x="{x}" y="{y}" fill="{color}" font-family="monospace" font-size="{size}">{escape(label)}</text>'
-
-
-def pixel_text(label, x, y, scale):
-    result = []
-    for letter in label:
-        rows = FONT[letter]
-        for dy, row in enumerate(rows):
-            for dx, bit in enumerate(row):
-                if bit == "1":
-                    result.append(rect(x + dx * scale, y + dy * scale, scale, scale, GREEN))
-        x += (len(rows[0]) + 1) * scale
-    return "".join(result)
+def text(x, y, label, size=14, color=MUTED, weight=400):
+    return f'<text x="{x}" y="{y}" fill="{color}" font-family="{FONT_FAMILY}" font-size="{size}" font-weight="{weight}">{escape(label)}</text>'
 
 
 def svg(name, height, title, description, body):
@@ -63,7 +43,7 @@ body += text(701, 25, "LOS ANGELES  /  EARTH", 12)
 for i in range(3):
     body += rect(917 + i * 10, 17, 4, 4, GREEN if i == 0 else LINE)
 body += text(40, 86, "HELLO, WORLD. I'M LEO.", 13, CREAM)
-body += pixel_text("BRASILIUS", 40, 112, 10)
+body += text(40, 182, "BRASILIUS", 88, GREEN, 700)
 body += text(40, 218, "AEROSPACE ENGINEER / SOFTWARE DEVELOPER", 17, CREAM)
 body += text(40, 247, "Open source. Linux. Rockets. Drones.", 15)
 body += rect(40, 274, 286, 30, PANEL)
@@ -81,7 +61,7 @@ body += '<path d="M774 189h-8v16h-8v24h16z M814 189h8v16h8v24h-16z" fill="#78976
 body += '<path class="spark" d="M782 237h24v16h-8v16h-8v-16h-8z" fill="#aac986"/></g></g>'
 body += rect(24, 330, 912, 1, LINE)
 body += text(40, 357, "01 / ENGINEER", 12) + text(345, 357, "02 / TINKERER", 12) + text(650, 357, "03 / EXPLORER", 12)
-svg("matcha-terminal.svg", 380, "Brasilius — Leo's personal terminal", "Matcha pixel lettering, a hovering rocket, twinkling stars and a mountain horizon. Aerospace engineer and software developer in Los Angeles.", body)
+svg("matcha-terminal.svg", 380, "Brasilius — Leo's personal terminal", "Matcha SF Pro typography, a hovering rocket, twinkling stars and a mountain horizon. Aerospace engineer and software developer in Los Angeles.", body)
 
 body = '<g shape-rendering="crispEdges">'
 body += rect(40, 43, 48, 28, GREEN) + rect(46, 71, 36, 6, GREEN)

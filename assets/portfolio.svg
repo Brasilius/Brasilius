@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="112" viewBox="0 0 460 112" role="img" aria-label="PORTFOLIO: nielslarsen.dev">
 <rect x="1" y="1" width="458" height="110" fill="#1d2b22" stroke="#3a5140"/>
-<text x="22" y="33" fill="#8fa58c" font-family="monospace" font-size="12">01 / OPEN</text>
-<text x="22" y="61" fill="#e0e8ce" font-family="monospace" font-size="20">PORTFOLIO</text>
-<text x="22" y="87" fill="#8fa58c" font-family="monospace" font-size="13">nielslarsen.dev</text>
+<text x="22" y="33" fill="#8fa58c" font-family="'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">01 / OPEN</text>
+<text x="22" y="61" fill="#e0e8ce" font-family="'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400">PORTFOLIO</text>
+<text x="22" y="87" fill="#8fa58c" font-family="'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400">nielslarsen.dev</text>
 <path d="M404 44h20v20m-24 4 24-24" fill="none" stroke="#aac986" stroke-width="4"/>
 </svg>

@@ -1,4 +1,4 @@
-Profile artwork uses original SVG shapes, an embedded 5 × 7 pixel alphabet, and a forest / matcha palette inspired by https://omarchy.org. No external fonts, JavaScript, or image host is needed for the banners and navigation cards.
+Profile artwork uses original SVG shapes, SF Pro typography with system sans-serif fallbacks, and a forest / matcha palette inspired by https://omarchy.org. SF Pro is used when available on the viewer’s device; the SVGs fall back to the local system font otherwise. No font files, JavaScript, or image host are needed for the banners and navigation cards. GitHub controls the font of the README’s regular Markdown text, code blocks, and third-party badges and stats cards.
 
 Run `python3 scripts/render-profile.py` from the repository root to regenerate the terminal banner, footer, and four navigation cards. Their CSS animations respect reduced-motion preferences; meaningful text also appears in the README and image descriptions.
 
