@@ -25,7 +25,7 @@ I'm **Leo**, an aerospace engineer based in the **Los Angeles Metroplex**. I wor
 operator    leo / brasilius
 mission     effector systems integration & test
 machine     Framework 13
-system      Fedora Linux
+system      Ubuntu LTS 26.04 (Resolute Racoon)
 fuel        matcha + the occasional jet fuel
 ```
 
