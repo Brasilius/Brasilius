@@ -1,57 +1,73 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Brasilius&color=8ba888&style=flat-square&label=VISITORS)
-
 <p align="center">
-  <a href="https://nielslarsen.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3200&pause=900&color=C0CFB2&center=true&vCenter=true&multiline=false&width=720&height=60&lines=%E2%9C%88%EF%B8%8F++Welcome+aboard;%F0%9F%9A%80++Aerospace+Engineer+%7C+Software+Developer;%E2%98%95++Fueled+by+coffee+and+liquid+oxygen" alt="Typing banner" />
-  </a>
-</p>
-
----
-
-### 👋 About me
-
-My name is Leo, and I am an aerospace engineer, based out of the Los Angeles Metroplex. I am interested in a wide variety of things, such as open source technologies, Linux, wireless telemetry systems - and of course **ROCKETS AND DRONES!**
-
-- 🚀️ &nbsp; Effector Systems Integration and Test Engineer at **CHAOS Industries**
-- 💻 &nbsp; Daily driver: **Framework 13** running Fedora Linux
-- 🍵 &nbsp; Portfolio → [**nielslarsen.dev**](https://nielslarsen.dev)
-- ⌨️ &nbsp; Watch me type → [monkeytype.com/profile/Brasi](https://monkeytype.com/profile/Brasi)
-
----
-
-### 🛠️ Flight Deck — Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,rust,cpp,c,python,js,ts,svelte,html,css,bash&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,linux,git,github,docker,vscode&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Brasilius">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Brasilius&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c0cfb2&icon_color=8ba888&text_color=8ba888&ring_color=c0cfb2" />
-  </a>
-  <a href="https://github.com/Brasilius">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brasilius&layout=compact&hide_border=true&bg_color=0d1117&title_color=c0cfb2&text_color=8ba888&langs_count=10" />
-  </a>
+  <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Brasilius">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brasilius&hide_border=true&background=0d1117&stroke=44624a&ring=c0cfb2&fire=8ba888&currStreakLabel=c0cfb2&sideLabels=8ba888&currStreakNum=c0cfb2&sideNums=c0cfb2&dates=8ba888" />
+  <img src="https://komarev.com/ghpvc/?username=Brasilius&color=8ba888&style=flat-square&label=VISITORS" alt="Profile view counter on GitHub" />
+  &nbsp; <a href="#the-flight-deck">Flight deck</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#contribution-garden">Contribution garden</a>
+</p>
+
+<p align="center">
+  <a href="https://nielslarsen.dev"><img src="assets/portfolio.svg" width="48%" alt="01 / Portfolio — nielslarsen.dev" /></a>
+  <a href="https://github.com/Brasilius?tab=repositories"><img src="assets/projects.svg" width="48%" alt="02 / Projects — explore my repositories" /></a>
+  <br />
+  <a href="https://github.com/Brasilius?tab=overview"><img src="assets/activity.svg" width="48%" alt="03 / Activity — recent public work" /></a>
+  <a href="https://monkeytype.com/profile/Brasi"><img src="assets/monkeytype.svg" width="48%" alt="04 / Monkeytype — meet me at the keyboard" /></a>
+</p>
+
+### The flight deck
+
+I'm **Leo**, an aerospace engineer based in the **Los Angeles Metroplex**. I work on effector systems integration and test at **CHAOS Industries**, and spend my time exploring open source technologies, Linux, and wireless telemetry systems. Always interested in **rockets and drones**.
+
+```text
+operator    leo / brasilius
+mission     effector systems integration & test
+machine     Framework 13
+system      Fedora Linux
+fuel        matcha + the occasional jet fuel
+```
+
+### Toolbox
+
+| Workbench | Tools |
+| :--- | :--- |
+| Systems & simulation | C · C++ · Rust · Python · Java · MATLAB |
+| Web & interfaces | JavaScript · TypeScript · Svelte · HTML · CSS |
+| Daily essentials | Linux · Bash · Git · GitHub · Docker · VS Code |
+
+### Contribution garden
+
+A little pixel snake tending a year of public contributions. Fresh growth every day.
+
+<p align="center">
+  <a href="https://github.com/Brasilius?tab=overview"><img src="assets/matcha-snake.svg" width="960" alt="Matcha contribution garden — an animated snake tracing my GitHub contributions once the daily workflow syncs" /></a>
+  <br />
+  <sub><a href="https://github.com/Brasilius/Brasilius/actions/workflows/snake.yml">Garden updates</a> · <a href="https://github.com/Brasilius?tab=repositories&amp;type=source&amp;sort=updated">Recently updated projects</a> · <a href="https://github.com/Brasilius?tab=stars">Things I'm exploring</a></sub>
+</p>
+
+<details>
+<summary><strong>Telemetry / GitHub stats</strong></summary>
+<br />
+
+<p align="center">
+  <a href="https://github.com/Brasilius?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brasilius&amp;show_icons=true&amp;hide_border=true&amp;bg_color=141d18&amp;title_color=aac986&amp;icon_color=aac986&amp;text_color=e0e8ce&amp;ring_color=aac986" alt="Leo's public GitHub statistics" />
+  </a>
+  <a href="https://github.com/Brasilius?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brasilius&amp;layout=compact&amp;hide_border=true&amp;bg_color=141d18&amp;title_color=aac986&amp;text_color=e0e8ce&amp;langs_count=8" alt="Most used languages across my public repositories" />
   </a>
 </p>
 
----
+<sub>Cards are supplied by GitHub Readme Stats; repository language totals reflect code volume.</sub>
+
+</details>
+
+<br />
 
 <p align="center">
-  <sub>Built with matcha 🍵 and the occasional jet fuel · <a href="https://nielslarsen.dev">nielslarsen.dev</a></sub>
+  <a href="https://nielslarsen.dev"><img src="assets/matcha-footer.svg" width="960" alt="Small commits. Big trajectories. Built with matcha and the occasional jet fuel." /></a>
+  <br />
+  <sub>Pixel details inspired by <a href="https://omarchy.org">Omarchy</a> · Original matcha artwork · <a href="https://nielslarsen.dev">nielslarsen.dev</a></sub>
 </p>
