@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
+  <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg?v=pixel-title" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
 </p>
 
 
