@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="112" viewBox="0 0 460 112" role="img" aria-label="ACTIVITY: Recent public work">
+<rect x="1" y="1" width="458" height="110" fill="#1d2b22" stroke="#3a5140"/>
+<text x="22" y="33" fill="#8fa58c" font-family="monospace" font-size="12">03 / OPEN</text>
+<text x="22" y="61" fill="#e0e8ce" font-family="monospace" font-size="20">ACTIVITY</text>
+<text x="22" y="87" fill="#8fa58c" font-family="monospace" font-size="13">Recent public work</text>
+<path d="M404 44h20v20m-24 4 24-24" fill="none" stroke="#aac986" stroke-width="4"/>
+</svg>

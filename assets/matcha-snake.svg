@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-labelledby="title desc">
+<title id="title">The contribution garden is ready to grow</title>
+<desc id="desc">The first GitHub Actions run will replace this welcome panel with Leo's real contribution snake.</desc>
+<rect width="960" height="150" fill="#141d18"/>
+<path d="M40 81h16V65h16V49h16v16h16v16h16" fill="none" stroke="#aac986" stroke-width="8"/>
+<path d="M80 81v24" stroke="#8fa58c" stroke-width="8"/>
+<text x="154" y="66" fill="#e0e8ce" font-family="monospace" font-size="19">A LITTLE GARDEN, READY TO GROW.</text>
+<text x="154" y="96" fill="#8fa58c" font-family="monospace" font-size="14">Real contributions arrive after the first workflow sync.</text>
+</svg>
