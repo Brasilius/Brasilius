@@ -1,13 +1,13 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brasilius&color=8ba888&style=flat-square&label=VISITORS" alt="Profile view counter on GitHub" />
+</p>
+
+
 <p align="center">
   <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brasilius&color=8ba888&style=flat-square&label=VISITORS" alt="Profile view counter on GitHub" />
-  &nbsp; <a href="#the-flight-deck">Flight deck</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#contribution-garden">Contribution garden</a>
-</p>
 
 <p align="center">
   <a href="https://nielslarsen.dev"><img src="assets/portfolio.svg" width="48%" alt="01 / Portfolio — nielslarsen.dev" /></a>
@@ -44,7 +44,6 @@ A little pixel snake tending a year of public contributions. Fresh growth every 
 <p align="center">
   <a href="https://github.com/Brasilius?tab=overview"><img src="assets/matcha-snake.svg" width="960" alt="Matcha contribution garden — an animated snake tracing my GitHub contributions once the daily workflow syncs" /></a>
   <br />
-  <sub><a href="https://github.com/Brasilius/Brasilius/actions/workflows/snake.yml">Garden updates</a> · <a href="https://github.com/Brasilius?tab=repositories&amp;type=source&amp;sort=updated">Recently updated projects</a> · <a href="https://github.com/Brasilius?tab=stars">Things I'm exploring</a></sub>
 </p>
 
 <details>
@@ -69,5 +68,5 @@ A little pixel snake tending a year of public contributions. Fresh growth every 
 <p align="center">
   <a href="https://nielslarsen.dev"><img src="assets/matcha-footer.svg" width="960" alt="Small commits. Big trajectories. Built with matcha and the occasional jet fuel." /></a>
   <br />
-  <sub>Pixel details inspired by <a href="https://omarchy.org">Omarchy</a> · Original matcha artwork · <a href="https://nielslarsen.dev">nielslarsen.dev</a></sub>
+  <sub>Original matcha artwork · <a href="https://nielslarsen.dev">nielslarsen.dev</a></sub>
 </p>
