@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg?v=pixel-title" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
+  <a href="https://nielslarsen.dev"><img src="assets/matcha-terminal.svg?v=minecraft-style" width="960" alt="Brasilius — Hello, world. I'm Leo. Aerospace engineer and software developer. Open source, Linux, rockets, and drones." /></a>
 </p>
 
 
@@ -17,7 +17,7 @@
   <a href="https://monkeytype.com/profile/Brasi"><img src="assets/monkeytype.svg" width="48%" alt="04 / Monkeytype — meet me at the keyboard" /></a>
 </p>
 
-### The flight deck
+### ![The flight deck](assets/heading-flight-deck.svg)
 
 I'm **Leo**, an aerospace engineer based in the **Los Angeles Metroplex**. I work on effector systems integration and test at **CHAOS Industries**, and spend my time exploring open source technologies, Linux, and wireless telemetry systems. Always interested in **rockets and drones**.
 
@@ -29,7 +29,7 @@ system      Ubuntu LTS 26.04 (Resolute Racoon)
 fuel        matcha + the occasional jet fuel
 ```
 
-### Toolbox
+### ![Toolbox](assets/heading-toolbox.svg)
 
 | Workbench | Tools |
 | :--- | :--- |
@@ -37,7 +37,7 @@ fuel        matcha + the occasional jet fuel
 | Web & interfaces | JavaScript · TypeScript · Svelte · HTML · CSS |
 | Daily essentials | Linux · Bash · Git · GitHub · Docker · VS Code |
 
-### Contribution garden
+### ![Contribution garden](assets/heading-contribution-garden.svg)
 
 A little pixel snake tending a year of public contributions. Fresh growth every day.
 
